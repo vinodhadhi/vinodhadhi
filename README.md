@@ -25,10 +25,6 @@
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="https://dev.to/midhun-nk">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
->
 
   <a href="https://github.com/Midhun-Nk">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
@@ -60,14 +56,14 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,django,bootstrap" />
 </td>
 
 
@@ -76,14 +72,14 @@
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mysql" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+    <img src="https://skillicons.dev/icons?i=vscode,gcp," />
 </td>
 </tr>
 </table>
@@ -101,14 +97,8 @@
   <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
----
 
-## ❤️ Support Me
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
+
 
 
